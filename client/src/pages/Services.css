@@ -1,0 +1,21 @@
+.services {
+  padding: 2rem;
+}
+
+.services h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.services ul {
+  list-style: none;
+  padding: 0;
+}
+
+.services li {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  border-left: 3px solid #64ffda;
+  background-color: #f0f2f5;
+}
